@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.exe
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.deps.json
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\bin\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.dll
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\refint\SortingAlgorithms.dll
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.pdb
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\SortingAlgorithms\obj\Debug\net8.0\ref\SortingAlgorithms.dll
