@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Downloads\StudentTestScores\bin\Debug\net8.0\StudentTestScores.exe
+C:\Users\lab_services_student\Downloads\StudentTestScores\bin\Debug\net8.0\StudentTestScores.deps.json
+C:\Users\lab_services_student\Downloads\StudentTestScores\bin\Debug\net8.0\StudentTestScores.runtimeconfig.json
+C:\Users\lab_services_student\Downloads\StudentTestScores\bin\Debug\net8.0\StudentTestScores.dll
+C:\Users\lab_services_student\Downloads\StudentTestScores\bin\Debug\net8.0\StudentTestScores.pdb
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.dll
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\refint\StudentTestScores.dll
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.pdb
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\StudentTestScores.genruntimeconfig.cache
+C:\Users\lab_services_student\Downloads\StudentTestScores\obj\Debug\net8.0\ref\StudentTestScores.dll
